@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeonCubix
-- 👀 I’m interested in LUA, PHP, Java, Python, SQL, HTML, CSS, XML
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in LUA, PHP, Java, Python, Javascript, SQL, HTML, CSS, XML
+- 🌱 I’m currently learning PHP and Javascript
 - 📫 How to reach me neoncubix@gmail.com
 
 <!---
